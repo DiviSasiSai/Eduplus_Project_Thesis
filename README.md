@@ -1,4 +1,22 @@
 # EduPuls: Intelligent Telegram Assistant for Student Updates and Reminders
+
+## Authors
+- D Sasi Sai  (Y22ACS443)
+- A Naga Mani  (Y22ACS416)
+- A Prasanth  (Y22ACS408)
+- G Durga Bhavani (L21ACS407)
+
+### Implementation
+AI Agent Server, Bridge Server, and Notification Scheduler implementation.
+
+🔗 https://github.com/DiviSasiSai/Eduplus_servers
+
+### Mobile Application
+Flutter-based mobile application for student interaction and notifications.
+
+🔗 https://github.com/DiviSasiSai/Eduplus_Mobile_App
+
+
 ## Overview
 EduPlus is an AI-powered academic communication system designed to improve how students receive and understand important academic announcements. The system processes messages from official Telegram groups, summarizes them using Artificial Intelligence, and delivers simplified notifications to students through a mobile application.
 
@@ -82,11 +100,7 @@ This project demonstrates how Artificial Intelligence and Natural Language Proce
 
 ---
 
-## Authors
-- D Sasi Sai  
-- A Naga Mani  
-- A Prasanth  
-- G Durga Bhavani  
+
 
 Department of Computer Science and Engineering  
 Bapatla Engineering College
